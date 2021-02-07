@@ -1,0 +1,13 @@
+
+]	java:S1253"<This block of commented-out lines of code should be removed.(è“Ó®øÿÿÿÿ8ØÌŠàÇ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(®”…şüÿÿÿÿ8ÏÉ¦àÇ.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Ö½–ğûÿÿÿÿ8ÅäšåÇ.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(×Õùôıÿÿÿÿ8³Í¢åÇ.
+Y
+java:S3066"<Lower the visibility of this setter or remove it altogether.(ˆ«×8Ì¶óßÇ.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(‰´Ó¹øÿÿÿÿ8£Â§àÇ.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(è†·Âıÿÿÿÿ8š¡®àÇ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¥íçôúÿÿÿÿ8ÍŞÂŒÇ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’½†©úÿÿÿÿ8ÅäšåÇ.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(î•Í¶8š¡®àÇ.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(û¢ò§ıÿÿÿÿ8š¡®àÇ.

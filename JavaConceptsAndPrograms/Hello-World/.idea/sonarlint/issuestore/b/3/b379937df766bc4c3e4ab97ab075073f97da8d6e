@@ -1,0 +1,11 @@
+
+L
+java:S1481"*Remove this unused "name1" local variable.(®Èèïúÿÿÿÿ8ŒÚøË.
+V
+java:S1854	"9Remove this useless assignment to local variable "name2".(¶ºü£8ŒÚøË.
+=
+java:S2129	" Remove this "String" constructor(¶ºü£8ŒÚøË.
+[
+java:S1854"9Remove this useless assignment to local variable "name1".(®Èèïúÿÿÿÿ8ŒÚøË.
+G
+java:S1481	"*Remove this unused "name2" local variable.(¶ºü£8ŒÚøË.

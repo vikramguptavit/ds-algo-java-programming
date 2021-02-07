@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ûµãëÿÿÿÿÿ8Ô‘ €Ì.
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ½³™ıÿÿÿÿ8éøÏÌ.
+q
+java:S1215	"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ª´ÌÌ.
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8’ÂçÌ.
+L
+java:S2201"*The return value of "length" must be used.(ËÚõéøÿÿÿÿ8Ñ‰ºˆÌ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğâŸ8éøÏÌ.

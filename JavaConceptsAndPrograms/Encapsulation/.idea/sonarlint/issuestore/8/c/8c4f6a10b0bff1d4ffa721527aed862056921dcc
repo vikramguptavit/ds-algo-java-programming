@@ -1,0 +1,16 @@
+
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(°½¿Ç8à¢¯“È.
+z
+java:S1104"XMake yearlySalary a static final constant or non-public and provide accessors if needed.(ŸØ½ùÿÿÿÿ8ï©“È.
+s
+java:S1104"QMake empId a static final constant or non-public and provide accessors if needed.(ªªÅÛûÿÿÿÿ8áµ““È.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¢Œ€È.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…úÍúÿÿÿÿ8Ï“ “È.
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8ÿØ“È.
+x
+java:S1104"VMake noOfLeaves a static final constant or non-public and provide accessors if needed.(µ€²„şÿÿÿÿ8Ÿ÷˜“È.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Äœäúÿÿÿÿ8Å¢•“È.

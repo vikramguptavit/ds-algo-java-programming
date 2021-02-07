@@ -1,0 +1,8 @@
+
+N
+java:S1481'",Remove this unused "laptop2" local variable.(çº™¦ÿÿÿÿÿ8– Œ¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßêçÇşÿÿÿÿ8œşˆ¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ãô§8îØ‚‰¹.
+]
+java:S1854'";Remove this useless assignment to local variable "laptop2".(çº™¦ÿÿÿÿÿ8– Œ¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜«ïàúÿÿÿÿ8ÿÔ†‰¹.

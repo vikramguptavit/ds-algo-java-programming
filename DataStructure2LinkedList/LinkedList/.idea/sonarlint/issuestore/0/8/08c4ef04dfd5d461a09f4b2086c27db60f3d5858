@@ -1,0 +1,22 @@
+
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¨îËõşÿÿÿÿ8şï™Ä÷.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥Å×½8ä€–Ä÷.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¥Å×½8°©™Ä÷.
+>
+java:S1659A""Declare "prev" on a separate line.(±ê¦a8’õ¸Ã÷.
+e
+java:S1192"HDefine a constant instead of duplicating this literal " added!" 3 times.(¥Å×½8°©™Ä÷.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(øıŸ’úÿÿÿÿ8ˆ­–Å÷.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(ô¤Ç8 ®çÙ÷.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Âû¯Ğüÿÿÿÿ8†­ßÁ÷.
+U	java:S106¡"9Replace this use of System.out or System.err by a logger.(Å¸üX8Ÿá„Ú÷.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÿ¥—Îúÿÿÿÿ8¢¿ÍÁ÷.
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Node " 4 times.(¥Å×½8°©™Ä÷.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¥Å×½8ç»˜Ä÷.
+d
+java:S2259M"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÄÎ³ıÿÿÿÿ8ŞøÌÃ÷.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´âÁ­ùÿÿÿÿ8ä¨ŸÂ÷.
+`
+java:S2583€"CChange this condition so that it does not always evaluate to "true"(¦î E8Éò‰Ú÷.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(Øëì8€ÎÈÃ÷.

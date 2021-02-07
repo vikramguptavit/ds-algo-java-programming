@@ -1,0 +1,13 @@
+Whether you are working on a new cutting edge app or simply ramping up on new technology,
+Java documentation has all the information you need to make your project a smashing success.
+Use the rich set of code samples, tutorials, developer guides, API documentation,
+and more to quickly develop your prototype and scale it up to a real world application.
+
+Java Platform, Standard Edition (Java SE)
+
+Java SE lets you develop and deploy Java applications on desktops and servers.
+Java SE and component technologies offer the rich user interface, performance, versatility,
+portability, and security that today's applications require.
+Java SE documentation
+Java SE related products enable you to monitor, profile, track usage, and centrally manage Java-based applications.
+Java SE Components documentation

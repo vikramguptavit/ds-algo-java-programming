@@ -1,0 +1,18 @@
+
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(„Êùéøÿÿÿÿ8ˆüÍ–ë.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡Â´úøÿÿÿÿ8‚ßÜ—ë.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ô½ÖÒûÿÿÿÿ8òÜ—ë.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ØÕàúÿÿÿÿ8á¨Ï–ë.
+U
+java:S1197)"8Move the array designator from the variable to the type.(¢•¹¢8òÜ—ë.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Øšù¡8¶çá—ë.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÖëÎúşÿÿÿÿ8ˆüÍ–ë.
+U
+java:S1197"8Move the array designator from the variable to the type.(—Ë8ˆüÍ–ë.
+{
+java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÿ¼ü®şÿÿÿÿ8òÜ—ë.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ØÕàúÿÿÿÿ8òÜ—ë.
+U
+java:S1197A"8Move the array designator from the variable to the type.(«ÔÙ8òÜ—ë.

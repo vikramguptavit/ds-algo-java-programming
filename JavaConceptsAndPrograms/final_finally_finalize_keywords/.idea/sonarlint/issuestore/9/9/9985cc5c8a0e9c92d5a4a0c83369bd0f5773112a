@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅœÔÙıÿÿÿÿ8ÏÕÑÉÆ.
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ8êÀÏÉÆ.
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(¼¿¿¤8İ„ëÉÆ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8êÀÏÉÆ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•÷âÿÿÿÿÿ8Ì†áÉÆ.
+O
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8êÀÏÉÆ.
+A
+java:S1111"Remove this call to finalize().(Ä—£ÿÿÿÿÿ8ØÓÉÆ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñúà°8‘›×ÉÆ.
+\
+java:S1854":Remove this useless assignment to local variable "object".(Ë¿„¥úÿÿÿÿ8õ¡ØÉÆ.
